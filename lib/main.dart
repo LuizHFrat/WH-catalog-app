@@ -19,8 +19,6 @@ void main() {
   );
 }
 
-//comentário.
-
 class App extends StatelessWidget {
   const App({super.key});
 
